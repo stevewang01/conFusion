@@ -1,2 +1,2 @@
 # conFusion
-**Coursera Course**: Front-End Web UI Frameworks and Tools: Bootstrap 4
+Courseworks for Coursera, Front-End Web UI Frameworks and Tools: Bootstrap 4
